@@ -67,6 +67,9 @@ export default function Home() {
           </div>
         </div>
       )}
+       <p className="absolute bottom-4 right-4 text-center w-full text-gray-200 text-sm select-none">
+        © 2025 TuNombre. Todos los derechos reservados.
+      </p>
     </div>
 
   );
